@@ -1,0 +1,10 @@
+body {
+    overflow: hidden;
+}
+
+.introduction p {
+    background-color: blue;
+    color: white;
+    text-align: center;
+
+}
